@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Djahniss</h1>
 <h3 align="center">A passionate IT student from France</h3>
 
-- 🔭 I’m currently working on making a website for [indomitable](https://sportsante.rascol.uk/](https://lordjammacus.itch.io/trucky-rts))
+- 🔭 I’m currently working on making a website for [indomitable](https://lordjammacus.itch.io/trucky-rts)
 
 - 🌱 I’m currently learning **BTS CIEL ER**
 
