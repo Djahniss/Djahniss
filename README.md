@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently searching for new project
 
-- 🌱 I’m currently learning **BTS CIEL ER**
+- 🌱 I’m currently learning **BTS CIEL IR**
 
 - 📫 How to reach me **djahniss.lemoine@e.rascol.me**
 
