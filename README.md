@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **djahniss.lemoine@e.rascol.me**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Jqcn1P0k6iDuEsRqWrje1hNs8VNqBvqB/view?usp=sharing](https://drive.google.com/file/d/1Jqcn1P0k6iDuEsRqWrje1hNs8VNqBvqB/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17tidP5Q9u37Djb_Q6lWKx73b63TYBBsF/view?usp=sharing](https://drive.google.com/file/d/17tidP5Q9u37Djb_Q6lWKx73b63TYBBsF/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
